@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p43210-e351004.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/UEcustom/main"
+    url: "https://author-p43210-e351004.adobeaemcloud.com/bin/franklin.delivery/jsmall1113/UEcustom/main"
     type: "markup"
     suffix: ".html"
